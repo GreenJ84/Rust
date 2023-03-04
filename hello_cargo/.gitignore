@@ -1,0 +1,27 @@
+# Rust/Cargo related files
+**/target/
+**/Cargo.lock
+**/Cargo.toml.orig
+**/.cargo/
+**/*.rs.bk
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-*
+
+# Compiled files
+**/*.rmeta
+**/*.o
+**/*.rlib
+**/*.rlib.orig
+**/*.dylib
+**/*.so
+**/*.so.*
+**/*.dll
+**/*.exe
+**/*.pexe
+
+# Build artifacts
+build/
+dist/
