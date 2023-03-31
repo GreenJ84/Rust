@@ -27,3 +27,8 @@ rustlings/.vscode/*
 rustlings/!.vscode/extensions.json
 rustlings/*.iml
 rustlings/*.o
+rustlings/src
+rustlings/tests
+
+.vscode
+learning
